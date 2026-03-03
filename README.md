@@ -1,9 +1,7 @@
 <h1>Helpdesk Home Lab – Windows Server 2022 Installation & Virtual Environment Setup</h1>
 
 <h2>Description</h2>
-This lab documents the installation of Windows Server 2022 in a virtual environment using Oracle VirtualBox.
-
-The goal of this project is to create a basic help desk lab environment that will be used for future Active Directory, domain configuration, and Windows 11 client integration labs.
+This lab documents the installation of Windows Server 2022 in a virtual environment using Oracle VirtualBox. The goal of this project is to create a basic help desk lab environment that will be used for future Active Directory, domain configuration, and Windows 11 client integration labs.
 
 In this setup, the following tasks were completed:
 - <b>Downloaded and installed Oracle VirtualBox (v7.1.4)</b>
@@ -23,12 +21,16 @@ This project serves as the foundation for building a full help desk home lab env
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle VirtualBox (v7.1.4)</b>
+- <b>Windows Server 2022 (64-bit)</b>
+- <b>Windows 11 Installation Media (ISO)</b>
+- <b>Command Prompt (CMD)</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Host Operating System: Windows 10 / Windows 11</b>
+- <b>Virtualization Platform: Oracle VirtualBox</b>
+- <b>Guest Operating System: Windows Server 2022</b>
 
 <h2>Program walk-through:</h2>
 
